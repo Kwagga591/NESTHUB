@@ -1,5 +1,11 @@
 {
   "projects": {
+<<<<<<< HEAD
     "default": "nesthub-pretoria-ai"
   }
 }
+=======
+    "default": "nesthub-project-id"
+  }
+}
+>>>>>>> bc5a0432f45d797c9029dac9e21b0c4df70c11ab
